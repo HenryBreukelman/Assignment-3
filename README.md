@@ -4,7 +4,7 @@ This is a application that will change the size of a box and the background colo
 
 # Steps
 Html
-1) Create your file and fill in basic infomation
+1) Create your file and fill in basic information
 2) Link to your CSS and JavaScript
 3) Add two buttons, one for bigger, and the other for smaller
 4) Add a <div> for your box
@@ -19,7 +19,7 @@ Html
 ```
 
 CSS
-1) Create your file and fill in basic infomation
+1) Create your file and fill in basic information
 2) Add your general styles
 3) Style your buttons
 ```CSS
@@ -46,7 +46,7 @@ CSS
 ```
 
 JavaScript
-1) Create your file and fill in basic infomation
+1) Create your file and fill in basic information
 2) Links your HTML elements to the JS
 3) Add a 'let' for the 'boxSize'
 ```JavaScript
