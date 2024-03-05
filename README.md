@@ -1,1 +1,1 @@
-Click [here](https://<profile-name>.github.io/<your-app-name>/) to test the application
+Click [here](https://henrybreukelman.github.io/Assignment-3/) to test the application
